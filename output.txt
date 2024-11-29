@@ -1,0 +1,5 @@
+364524234 2 240 Mouse
+RUC del cliente (X para terminar): 287356287 1 300 Teclado
+RUC del cliente (X para terminar): 28374238532 3 70 USB
+RUC del cliente (X para terminar): 8745384753 1 120 Cargador
+RUC del cliente (X para terminar): X
